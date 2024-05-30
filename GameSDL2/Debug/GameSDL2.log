@@ -1,0 +1,85 @@
+﻿  Base.cpp
+  Boss.cpp
+C:\GameProject1\GameSDL2\Enemy.h(39,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Boss.cpp')
+  
+C:\GameProject1\GameSDL2\Enemy.h(40,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Boss.cpp')
+  
+C:\GameProject1\GameSDL2\Boss.cpp(42,27): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\Boss.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+  Bullet.cpp
+  CommonFunc.cpp
+  Enemy.cpp
+C:\GameProject1\GameSDL2\Enemy.h(39,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Enemy.cpp')
+  
+C:\GameProject1\GameSDL2\Enemy.h(40,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Enemy.cpp')
+  
+C:\GameProject1\GameSDL2\Enemy.cpp(14,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(14,16): warning C4244:         with
+C:\GameProject1\GameSDL2\Enemy.cpp(14,16): warning C4244:         [
+C:\GameProject1\GameSDL2\Enemy.cpp(14,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\GameProject1\GameSDL2\Enemy.cpp(14,16): warning C4244:         ]
+C:\GameProject1\GameSDL2\Enemy.cpp(22,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(23,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(24,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\Enemy.cpp(42,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\GameProject1\GameSDL2\Enemy.cpp(42,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(42,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\GameProject1\GameSDL2\Enemy.cpp(42,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(61,73): warning C4018: '>=': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\Enemy.cpp(66,40): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(68,18): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(67,56): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(74,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(74,25): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(80,65): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(80,25): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(109,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GameProject1\GameSDL2\Enemy.cpp(110,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+  main.cpp
+C:\GameProject1\GameSDL2\Enemy.h(39,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameProject1\GameSDL2\Enemy.h(40,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameProject1\GameSDL2\main.cpp(357,13): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(367,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(374,33): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(401,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(407,33): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(457,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(510,13): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(547,33): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(575,33): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(604,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(608,29): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(664,33): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(726,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(758,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(763,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(768,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(773,27): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(778,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(827,27): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(839,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(847,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(855,25): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1159,41): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1192,45): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1214,37): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1268,41): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1299,45): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1314,37): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(1328,39): warning C4018: '<': signed/unsigned mismatch
+C:\GameProject1\GameSDL2\main.cpp(916,14): warning C4101: 'mouse': unreferenced local variable
+  Maybay.cpp
+C:\GameProject1\GameSDL2\Maybay.cpp(76,27): warning C4018: '<': signed/unsigned mismatch
+  Text.cpp
+  Generating Code...
+  GameSDL2.vcxproj -> C:\GameProject1\Debug\GameSDL2.exe

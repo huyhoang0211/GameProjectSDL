@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{222E31F5-FCE8-402E-8C8E-DB8998F62B34}|GameSDL2\\GameSDL2.vcxproj|C:\\GameProject\\GameSDL2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{222E31F5-FCE8-402E-8C8E-DB8998F62B34}|GameSDL2\\GameSDL2.vcxproj|solutionrelative:GameSDL2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\GameProject\\GameSDL2\\main.cpp",
+              "RelativeDocumentMoniker": "GameSDL2\\main.cpp",
+              "ToolTip": "C:\\GameProject\\GameSDL2\\main.cpp",
+              "RelativeToolTip": "GameSDL2\\main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T13:58:59.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
